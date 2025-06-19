@@ -68,7 +68,7 @@ Receipt Genie is a modern, full-stack web app for managing receipts, tracking ex
 
 ## 🙌 Credits
 - Built with [Streamlit](https://streamlit.io/), [SQLAlchemy](https://www.sqlalchemy.org/), [Plotly](https://plotly.com/python/), and [OpenAI](https://openai.com/)
-- Designed and developed by [Shreya Shere]
+- Designed and developed by Shreya Shere
 
 ---
 
