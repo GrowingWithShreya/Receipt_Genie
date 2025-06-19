@@ -1,0 +1,8 @@
+streamlit
+openai
+pillow
+together
+fpdf
+kaleido
+sqlalchemy
+bcrypt 
